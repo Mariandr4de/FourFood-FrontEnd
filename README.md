@@ -49,7 +49,7 @@ Projeto Final do módulo Frontend da instituição Labenu, a proposta é uma apl
 
 <h2 id="surge"> 🔗Link Surge - Mobile</h2>  
 
-[IFuture](https://fourfood-3.surge.sh/)
+[IFuture-mobile](https://fourfood-3.surge.sh/)
 
 <h2 id="projeto"> 💻Como Rodar o Projeto Localmente </h2>
 
